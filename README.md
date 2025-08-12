@@ -1,2 +1,8 @@
-# ds-portfolio-streamlit
-I’m a data scientist with a strong foundation in analytics, and I bring years of enterprise IT and systems expertise that help me build reliable, scalable, and secure data solutions.
+# James Simelus — Streamlit Portfolio (Data Scientist & Former Windows SysAdmin)
+
+This is the interactive companion to my static GitHub/GitLab Pages site. It showcases projects, write-ups, and a SysAdmin→Data Science crossover.
+
+## Run locally
+```bash
+pip install -r requirements.txt
+streamlit run app.py
