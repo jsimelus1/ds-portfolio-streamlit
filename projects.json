@@ -1,0 +1,38 @@
+[
+  {
+    "title": "IT Helpdesk Ticket Classifier",
+    "role": "NLP • Prioritization • MLOps-minded",
+    "description": "Built an NLP pipeline to classify and auto-prioritize IT support tickets (hardware, software, network, access). Improves SLA adherence by routing high-urgency tickets instantly.",
+    "tech": ["Python", "pandas", "scikit-learn", "spaCy", "FastAPI", "Docker"],
+    "demo": "https://YOUR-DEPLOYED-DEMO",
+    "repo": "https://github.com/YOUR-GITHUB/helpdesk-ticket-classifier",
+    "post": "https://medium.com/@YOUR-HANDLE/helpdesk-nlp-writeup"
+  },
+  {
+    "title": "Windows Server Log Anomaly Detection",
+    "role": "Security • Observability",
+    "description": "Ingested Windows Server event logs, engineered temporal features, and trained anomaly detection models to flag suspicious patterns (e.g., repeated failed logons, privilege escalations).",
+    "tech": ["Python", "PyOD", "scikit-learn", "PowerShell", "ELK/OpenSearch"],
+    "demo": "https://YOUR-DEPLOYED-DEMO",
+    "repo": "https://github.com/YOUR-GITHUB/windows-log-anomaly-detection",
+    "post": null
+  },
+  {
+    "title": "Reddit Sentiment Dashboard (Tech Communities)",
+    "role": "NLP • Time Series • Dashboard",
+    "description": "Scraped subreddit posts/comments, stored in PostgreSQL, and visualized sentiment trends across time and topics. Deployed an interactive dashboard for exploration.",
+    "tech": ["Python", "psycopg", "VADER/transformers", "Plotly Dash/Streamlit", "PostgreSQL"],
+    "demo": "https://YOUR-DEPLOYED-DEMO",
+    "repo": "https://github.com/YOUR-GITHUB/reddit-sentiment-dashboard",
+    "post": null
+  },
+  {
+    "title": "Crime Data Mapping & Hotspot Analysis",
+    "role": "Geospatial • Public Safety",
+    "description": "Aggregated public incident data, cleaned it, and built a mapping interface to visualize hotspots and temporal patterns for community insights.",
+    "tech": ["Python", "pandas", "geopandas", "Folium/Kepler.gl"],
+    "demo": "https://YOUR-DEPLOYED-DEMO",
+    "repo": "https://github.com/YOUR-GITHUB/crime-data-mapping",
+    "post": null
+  }
+]
